@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Step closer to become a web developer"
-date:       2018-09-11 02:14:40 +0000
+title:      " Step closer to become a web developer"
+date:       2018-09-10 22:14:41 -0400
 permalink:  step_closer_to_become_a_web_developer
 ---
 
